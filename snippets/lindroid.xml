@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Lindroid additions -->
-	<project path="vendor/lindroid" name="Linux-on-droid/vendor_lindroid" revision="refs/heads/lindroid-22.1" />
+    <project path="vendor/lindroid-drm-loopback" name="Linux-on-droid/lindroid-drm-loopback" revision="refs/heads/master" />
     <project path="external/lxc" name="Linux-on-droid/external_lxc" revision="refs/heads/lindroid-21" />
     <project path="libhybris" name="Linux-on-droid/libhybris" revision="refs/heads/tmp" />
  </manifest>
