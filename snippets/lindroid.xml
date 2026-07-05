@@ -4,5 +4,5 @@
   <!-- Lindroid additions -->
     <project path="vendor/lindroid-drm-loopback" name="Linux-on-droid/lindroid-drm-loopback" revision="refs/heads/master" />
     <project path="external/lxc" name="Linux-on-droid/external_lxc" revision="refs/heads/lindroid-21" />
-    <project path="libhybris" name="Linux-on-droid/libhybris" revision="refs/heads/tmp" />
+    <project path="libhybris" name="Linux-on-droid/libhybris" revision="refs/heads/lindroid-21" />
  </manifest>
